@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Jan 10 09:51:08 EET 2022","Mon Jan 10 09:51:10 EET 2022","2355","webkit","example.spec.js","","","","test",""
+"passed","Mon Jan 10 09:51:08 EET 2022","Mon Jan 10 09:51:12 EET 2022","4096","firefox","example.spec.js","","","","test",""
+"passed","Mon Jan 10 09:51:08 EET 2022","Mon Jan 10 09:51:11 EET 2022","2995","chromium","example.spec.js","","","","test",""

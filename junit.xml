@@ -1,0 +1,20 @@
+<testsuites id="" name="" tests="3" failures="0" skipped="3" errors="0" time="11.816">
+<testsuite name="test.spec.ts" timestamp="1641802060096" hostname="" tests="1" failures="0" skipped="1" time="10.911" errors="0">
+<testcase name="test" classname="[chromium] › test.spec.ts:3:1 › test" time="10.911">
+<skipped>
+</skipped>
+</testcase>
+</testsuite>
+<testsuite name="test.spec.ts" timestamp="1641802060096" hostname="" tests="1" failures="0" skipped="1" time="10.895" errors="0">
+<testcase name="test" classname="[firefox] › test.spec.ts:3:1 › test" time="10.895">
+<skipped>
+</skipped>
+</testcase>
+</testsuite>
+<testsuite name="test.spec.ts" timestamp="1641802060096" hostname="" tests="1" failures="0" skipped="1" time="10.89" errors="0">
+<testcase name="test" classname="[webkit] › test.spec.ts:3:1 › test" time="10.89">
+<skipped>
+</skipped>
+</testcase>
+</testsuite>
+</testsuites>

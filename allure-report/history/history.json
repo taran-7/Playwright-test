@@ -1,0 +1,59 @@
+{
+  "webkit example.spec.js test" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "282237d22b1cc952",
+      "status" : "passed",
+      "time" : {
+        "start" : 1641801068360,
+        "stop" : 1641801070715,
+        "duration" : 2355
+      }
+    } ]
+  },
+  "firefox example.spec.js test" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "466bbacc8e5446ee",
+      "status" : "passed",
+      "time" : {
+        "start" : 1641801068361,
+        "stop" : 1641801072457,
+        "duration" : 4096
+      }
+    } ]
+  },
+  "chromium example.spec.js test" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "adc8b90334f87660",
+      "status" : "passed",
+      "time" : {
+        "start" : 1641801068361,
+        "stop" : 1641801071356,
+        "duration" : 2995
+      }
+    } ]
+  }
+}
